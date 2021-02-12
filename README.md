@@ -1,1 +1,1 @@
-# Szamitogep_grafika
+# Szamitogepi_grafika
